@@ -49,13 +49,12 @@ Dataset didapatkan dari Kaggle (https://www.kaggle.com/datasets/shariful07/stude
 
 Import Libraries dan Data
 Preview Data
-![App Screenshot](./image/image2.png)
-Distribusi Nilai UMP
-![App Screenshot](./image/image3.png)
-Rata-rata UMP per Tahun
-![App Screenshot](./image/image4.png)
-Top 5 Provinsi dengan UMP Tertinggi
-![App Screenshot](./image/image.png)
+![App Screenshot](./image/)
+Distribusi depresi
+![App Screenshot](./image/)
+pengelompokan depresi
+![App Screenshot](./image/)
+
 
 ### Proses features Dataset
 Preprocessing Data
@@ -112,7 +111,8 @@ Mean Squared Error (MSE):
 ## Diskusi Hasil dan Kesimpulan
 
 ### Hasil
-Prediksi :
+Prediksi terkena mental health:
+
 
 Tren Kenaikan Gaji:
 Terdapat tren kenaikan gaji rata-rata di Indonesia dari tahun ke tahun.
