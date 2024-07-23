@@ -49,11 +49,11 @@ Dataset didapatkan dari Kaggle (https://www.kaggle.com/datasets/shariful07/stude
 
 Import Libraries dan Data
 Preview Data
-![App Screenshot](./image/)
+![App Screenshot](./image/image1)
 Distribusi depresi
-![App Screenshot](./image/)
+![App Screenshot](./image/image2)
 pengelompokan depresi
-![App Screenshot](./image/)
+![App Screenshot](./image/image3)
 
 
 ### Proses features Dataset
