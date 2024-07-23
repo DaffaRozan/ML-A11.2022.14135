@@ -111,33 +111,41 @@ Mean Squared Error (MSE):
 ## Diskusi Hasil dan Kesimpulan
 
 ### Hasil
-Prediksi terkena mental health:
+1. Status Depresi
+kita dapat melihat bahwa mayoritas mahasiswa tidak mengalami depresi (kode 0), sementara sebagian kecil mengalami depresi (kode 1). Jumlah mahasiswa yang tidak mengalami depresi jauh lebih banyak dibandingkan dengan yang mengalami depresi.
 
+2. Depresi Berdasarkan Umur
+yang menggambarkan distribusi depresi berdasarkan umur mahasiswa, terlihat bahwa:
+Pada usia 18 tahun, jumlah mahasiswa yang tidak mengalami depresi lebih banyak daripada yang mengalami depresi.
+Pada usia 19 dan 20 tahun, jumlah mahasiswa yang tidak mengalami depresi juga lebih banyak, meskipun ada sedikit peningkatan pada jumlah mahasiswa yang mengalami depresi.
+Pada usia 21 tahun, jumlah mahasiswa yang mengalami depresi lebih sedikit.
+Pada usia 22 dan 23 tahun, tidak ada data mengenai mahasiswa yang mengalami depresi.
+Pada usia 24 tahun, terdapat peningkatan jumlah mahasiswa yang mengalami depresi.
 
-Tren Kenaikan Gaji:
-Terdapat tren kenaikan gaji rata-rata di Indonesia dari tahun ke tahun.
-Visualisasi menunjukkan peningkatan yang konsisten, dengan beberapa tahun mengalami pertumbuhan yang lebih signifikan dibandingkan tahun lainnya.
+3. Kecemasan Berdasarkan Umur
+yang menggambarkan distribusi kecemasan berdasarkan umur mahasiswa, terlihat bahwa:
+Pada usia 18 tahun, jumlah mahasiswa yang mengalami kecemasan lebih banyak daripada yang tidak mengalami kecemasan.
+Pada usia 19 dan 20 tahun, jumlah mahasiswa yang mengalami kecemasan sedikit lebih tinggi.
+Pada usia 21 dan 22 tahun, tidak ada data mengenai mahasiswa yang mengalami kecemasan.
+Pada usia 23 dan 24 tahun, jumlah mahasiswa yang mengalami kecemasan lebih banyak daripada yang tidak mengalami kecemasan.
 
-Pertumbuhan Gaji Rata-rata:
-Grafik batang menunjukkan pertumbuhan gaji rata-rata tahunan dari 2022 hingga 2032.
-Pertumbuhan gaji diprediksi akan terus meningkat, namun dengan laju yang bervariasi setiap tahunnya.
+4. Serangan Panik Berdasarkan Umur
+yang menggambarkan distribusi serangan panik berdasarkan umur mahasiswa, terlihat bahwa:
+Pada usia 18 tahun, jumlah mahasiswa yang tidak mengalami serangan panik lebih banyak daripada yang mengalami serangan panik.
+Pada usia 19 dan 20 tahun, jumlah mahasiswa yang mengalami serangan panik sedikit lebih tinggi.
+Pada usia 21 dan 22 tahun, tidak ada data mengenai mahasiswa yang mengalami serangan panik.
+Pada usia 23 dan 24 tahun, jumlah mahasiswa yang mengalami serangan panik lebih sedikit.
 
-Lima Wilayah dengan Gaji Tertinggi:
-Analisis menunjukkan lima wilayah dengan gaji tertinggi di Indonesia.
-DKI Jakarta konsisten menjadi wilayah dengan gaji tertinggi, diikuti oleh provinsi-provinsi lain yang kemungkinan besar merupakan daerah industri atau pusat ekonomi.
-
-Variasi Gaji antar Wilayah:
-Terdapat kesenjangan gaji yang signifikan antar wilayah di Indonesia.
-Beberapa wilayah menunjukkan pertumbuhan gaji yang lebih cepat dibandingkan wilayah lain.
-
-Prediksi Gaji Masa Depan:
-Model regresi linear digunakan untuk memprediksi gaji hingga tahun 2032.
-Prediksi menunjukkan bahwa gaji akan terus meningkat di semua wilayah, namun dengan laju yang berbeda-beda.
-
-Visualisasi Dinamis:
-Grafik animasi menunjukkan perubahan gaji di berbagai wilayah dari tahun ke tahun.
-Visualisasi ini memperlihatkan dinamika perubahan peringkat wilayah berdasarkan tingkat gaji.
+5. Konsultasi Berdasarkan Umur
+Pada grafik kelima, yang menggambarkan distribusi konsultasi berdasarkan umur mahasiswa, terlihat bahwa:
+Pada usia 18 tahun, jumlah mahasiswa yang tidak melakukan konsultasi lebih banyak daripada yang melakukan konsultasi.
+Pada usia 19 dan 20 tahun, jumlah mahasiswa yang melakukan konsultasi sedikit lebih tinggi.
+Pada usia 21 dan 22 tahun, tidak ada data mengenai mahasiswa yang melakukan konsultasi.
+Pada usia 23 dan 24 tahun, jumlah mahasiswa yang melakukan konsultasi lebih banyak.
 
 ## Kesimpulan
-Hasil yang ditargetkan adalah pengembangan model klasifikasi yang dapat mengidentifikasi kemungkinan adanya gangguan mental pada mahasiswa dengan tingkat akurasi yang tinggi. Model ini diharapkan dapat memberikan landasan untuk intervensi yang tepat waktu dan dukungan yang sesuai untuk meningkatkan kesejahteraan mental mahasiswa secara keseluruhan.
+Depresi: Lebih banyak mahasiswa yang tidak mengalami depresi dibandingkan yang mengalami, dengan peningkatan pada usia 24 tahun.
+Kecemasan: Lebih banyak mahasiswa yang mengalami kecemasan, terutama pada usia 18, 19, dan 24 tahun.
+Serangan Panik: Lebih banyak mahasiswa yang tidak mengalami serangan panik, dengan sedikit peningkatan pada usia 19 dan 20 tahun.
+Konsultasi: Lebih banyak mahasiswa yang tidak melakukan konsultasi, dengan peningkatan pada usia 23 dan 24 tahun.
 
