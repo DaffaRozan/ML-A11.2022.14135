@@ -50,10 +50,12 @@ Dataset didapatkan dari Kaggle (https://www.kaggle.com/datasets/shariful07/stude
 Import Libraries dan Data
 Preview Data
 ![image1](https://github.com/user-attachments/assets/660d39dd-2708-46f3-92ee-ca29a4c16942)
+
 Distribusi depresi
 ![image2](https://github.com/user-attachments/assets/45ce592d-ee55-4011-bbac-a6ad0ff8d474)
-pengelompokan depresi
 
+pengelompokan depresi
+![image3](https://github.com/user-attachments/assets/38496f1f-be4d-49ca-ae70-c232464ab5f2)
 
 
 ### Proses features Dataset
