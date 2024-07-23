@@ -49,7 +49,7 @@ Dataset didapatkan dari Kaggle (https://www.kaggle.com/datasets/shariful07/stude
 
 Import Libraries dan Data
 Preview Data
-![App Screenshot](./image/image1)
+![image1](https://github.com/user-attachments/assets/660d39dd-2708-46f3-92ee-ca29a4c16942)
 Distribusi depresi
 ![App Screenshot](./image/image2)
 pengelompokan depresi
