@@ -51,9 +51,9 @@ Import Libraries dan Data
 Preview Data
 ![image1](https://github.com/user-attachments/assets/660d39dd-2708-46f3-92ee-ca29a4c16942)
 Distribusi depresi
-![App Screenshot](./image/image2)
+![image2](https://github.com/user-attachments/assets/45ce592d-ee55-4011-bbac-a6ad0ff8d474)
 pengelompokan depresi
-![App Screenshot](./image/image3)
+
 
 
 ### Proses features Dataset
